@@ -188,5 +188,6 @@ def main():
 
             print("\nOpción inválida.")
 
+if __name__ == "__main__":
 
-i
+    main()

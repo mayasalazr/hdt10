@@ -1,0 +1,16 @@
+Mixco BajaVerapaz 60
+Zacapa Escuintla 45
+Jalapa Mixco 50
+AltaVerapaz BajaVerapaz 25
+Jutiapa AltaVerapaz 80
+Escuintla Jalapa 60
+Zacapa Mixco 65
+BajaVerapaz AltaVerapaz 25
+Mixco Zacapa 70
+Jalapa Jutiapa 45
+Peten Jalapa 90
+Escuintla Mixco 50
+Jutiapa Zacapa 40
+Mixco Jutiapa 30
+Zacapa Peten 70
+BajaVerapaz Escuintla 95
